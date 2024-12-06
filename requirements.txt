@@ -5,3 +5,4 @@ joblib
 pillow
 gunicorn
 python-dotenv
+scikit-learn
